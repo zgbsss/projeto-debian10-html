@@ -7,18 +7,9 @@ header {
     background-color: purple;
 }
 
-.nav{
-    color: green;
-    background-color: transparent;
-    text-decoration: none;
-}
-
-a{
-    color: green;
-    background-color: transparent;
-    text-decoration: none;
-
-}
+h1 {
+    color: white;
+}   
 
 .artigos {
     background-color: rgb(196, 154, 230);
