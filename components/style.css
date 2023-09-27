@@ -1,0 +1,27 @@
+body {
+    background-color: aliceblue;
+    margin: 0;
+}
+
+header {
+    background-color: purple;
+}
+
+.nav{
+    color: green;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a{
+    color: green;
+    background-color: transparent;
+    text-decoration: none;
+
+}
+
+.artigos {
+    background-color: rgb(196, 154, 230);
+    display: flex;
+    text-align: center;
+}
